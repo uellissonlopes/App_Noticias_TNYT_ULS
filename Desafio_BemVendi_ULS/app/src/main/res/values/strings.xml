@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notícias TNYT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secao">Seção:</string>
+    <string name="subSecao">Subseção:</string>
+    <string name="titulo">Título:</string>
+    <string name="resumo">Resumo:</string>
+    <string name="noticiaCompleta">Link para Notícia Completa:</string>
+    <string name="voltar">Voltar</string>
+    <string name="lista_noticias">Noticias The New York Times</string>
+    <string name="detalhes_noticia">Detalhes da Notícia</string>
+
+
+</resources>
